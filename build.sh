@@ -1,0 +1,1 @@
+pyinstaller --onefile simple-spotify-auth.py
